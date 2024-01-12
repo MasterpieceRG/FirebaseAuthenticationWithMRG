@@ -12,7 +12,7 @@ class SignInPage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        binding.goRegister.setOnClickListener {
+        binding.goSignup.setOnClickListener {
             startActivity(Intent(this@SignInPage, SignUpPage::class.java))
         }
 
