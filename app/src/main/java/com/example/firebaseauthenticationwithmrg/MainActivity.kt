@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         Handler().postDelayed({
             startActivity(Intent(this@MainActivity, GetStartPage::class.java))
-        },4000)
+        },3000)
     }
 }
