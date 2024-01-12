@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">FirebaseAuthenticationWithMRG</string>
+    <string name="header_tittle">A PASSION FOR\nYOUR\nEXCELLENCY</string>
+    <string name="header_tittle_2">Feel defferent\nwith us</string>
+    <string name="header_tittle_3">THE DOORS ARE\nUNLOCKED</string>
 </resources>
